@@ -12,9 +12,10 @@ module Locomotive
 	  end
 	 
 	end
-      end
-    end
-  end
+     
 	 
 	::Liquid::Template.register_filter(GravatarFilter)
 	
+      end
+    end
+  end
